@@ -17,7 +17,7 @@ body {
 }
 
 .main {
-  padding: 20vh 5vw;
+  padding: 10vh 5vw;
   display: flex;
   flex-direction: row;
   justify-items: center;
@@ -63,5 +63,11 @@ footer {
   }
   .logo {
     padding: 24px;
+  }
+}
+
+@media (min-width: 1080px) {
+  .graphic {
+    padding-left: 100px;
   }
 }
