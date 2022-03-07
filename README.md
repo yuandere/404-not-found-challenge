@@ -61,3 +61,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - GitHub [@yuandere](https://{github.com/yuandere})
 - Twitter [@yuandere](https://{twitter.com/yuandere})
+- Discord [@al doub#7487](https://{discord.com}/)
