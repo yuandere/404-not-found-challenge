@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">404 Page Not Found Challenge</h1>
+<h1 align="center">Responsive 404 Page Not Found Concept</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -33,7 +33,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/yuandere/404-not-found-challenge/blob/alt/404screenshot.jpg?raw=true)
 
 This is a simple responsive 404 error page concept I put together using mobile-first principles and flexbox. I actually learned more about the process of version control through Github Desktop than I did about HTML/CSS on this project but I need to start somewhere right? :)
 
